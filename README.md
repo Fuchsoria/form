@@ -1,6 +1,6 @@
-# Sprint 10 Form Validation [RU Lang] v0.0.2
+# Form Validation [RU Lang] v0.0.2
 В состав формы входит валидация Имени, Почты, Телефона и Сайта/IP.
-Демо: [Кликабельная ссылка](https://sehenqq.github.io/form/)
+Демо: [Кликабельная ссылка](https://fuchsoria.github.io/form/)
 
 ## Условия валидации:
 
